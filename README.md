@@ -1,3 +1,5 @@
+
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQED6S3d0mNEkg/profile-displaybackgroundimage-shrink_350_1400/B4DZUk26eWG4Ag-/0/1740080133760?e=1745452800&v=beta&t=yHaIhwilLiAK_D9TmnZ4LVn21zVGJFtxYp0weOxNk5Y">
 <h1 align="center">Hi 👋, I'm Johorul Hoque</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
